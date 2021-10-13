@@ -1,10 +1,16 @@
-### Hi there 👋
+### Hi, I'm Erin 👋
 
+I'm a scientist. I specialized in bioinformatics and molecular biology for my bachelor's degree and I studied adult stem cells in the prostate epithelium for my PhD at the University of Chicago. <br><br>Now, as a federal contractor, I help the CDC and others implement bioinformatics pipelines for processing, analyzing, and managing their next-generation sequencing data. I've become much more interested in how to architect private AI systems via privacy-preserving data-mining (PPDM) techniques (e.g., federated learning, differential privacy) for the biomedical research community.<br>
+
+<b>Current Focus</b>: Machine learning -- how to deploy private, transparent, and ethical analytics for use with biomedical data.<br>
+<b>Current Learning</b>: <a href="https://courses.openmined.org/courses/foundations-of-private-computation">Foundations of Private Computation</a>
+
+
+😄 Pronouns: she/her/hers
 <!--
 **emmcauley/emmcauley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+1. B.S. in Bioinformatics & Molecular Biology
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

@@ -1,10 +1,6 @@
 ### Hi, I'm Erin 👋
 
-I'm a scientist. I specialized in bioinformatics and molecular biology for my bachelor's degree and I studied adult stem cells in the prostate epithelium during my PhD at the University of Chicago. <br><br>Now, as a federal contractor, I help the CDC and other federal agencies implement bioinformatics pipelines for processing and analyzing their next-generation sequencing data. I've become much more interested in how to architect private AI systems via privacy-enhancing technologies (PETs) like federated learning and differential privacy for the biomedical research community.<br>
-
-<b>Current Focus</b>: Machine learning -- how to deploy private, transparent, and ethical analytics for use with biomedical data.<br>
-<b>Current Learning</b>: <a href="https://courses.openmined.org/courses/foundations-of-private-computation">Foundations of Private Computation</a>
-
+I'm a scientist. I specialized in bioinformatics and molecular biology for my bachelor's degree and I studied adult stem cells in the prostate epithelium during my PhD at the University of Chicago. Recently I've become interested in how to architect private AI systems via privacy-enhancing technologies (PETs) like federated learning and differential privacy for the biomedical research community.<br>
 
 😄 Pronouns: she/her/hers
 <!--

@@ -1,6 +1,6 @@
 ### Hi, I'm Erin 👋
 
-I'm a scientist. I specialized in bioinformatics and molecular biology for my bachelor's degree and I studied adult stem cells in the prostate epithelium during my PhD at the University of Chicago. Recently I've become interested in how to architect private AI systems via privacy-enhancing technologies (PETs) like federated learning and differential privacy for the biomedical research community.<br>
+I'm a scientist. I specialized in bioinformatics and molecular biology for my bachelor's degree and I studied adult epithelial stem cells during my PhD at the University of Chicago. I'm currently a Senior Bioinformatics Scientist at Fulcrum Genomics and I write code to help scientists do cool things.<br>
 
 😄 Pronouns: she/her/hers
 <!--

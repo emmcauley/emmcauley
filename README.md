@@ -1,6 +1,6 @@
 ### Hi, I'm Erin 👋
 
-I'm a scientist. I specialized in bioinformatics and molecular biology for my bachelor's degree and I studied adult epithelial stem cells during my PhD at the University of Chicago. I'm currently a Senior Bioinformatics Scientist at Fulcrum Genomics and I write code to help scientists do cool things.<br>
+I'm a scientist. I specialized in bioinformatics and molecular biology for my bachelor's degree and I studied adult epithelial stem cells during my PhD at the University of Chicago. I'm currently a Staff Bioinformatics Scientist at Fulcrum Genomics and I write code to help scientists do cool things.<br>
 
 😄 Pronouns: she/her/hers
 <!--
